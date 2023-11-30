@@ -1,0 +1,24 @@
+
+body {
+    background-color: #8df0f0;
+  }
+  
+.BookRow{
+  margin-left: 20px;
+}
+.firstName{
+  color: rgb(10, 27, 128);
+}
+
+
+.lastName{
+  color: rgb(10, 27, 128);
+}
+
+.email{
+  color: rgb(128, 10, 20);
+}
+
+.phonenumber{
+  color: rgb(206, 93, 200);
+}
